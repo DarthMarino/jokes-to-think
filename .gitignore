@@ -1,0 +1,7 @@
+node_modules
+dist
+
+/db/pb_data
+/db/pocketbase
+/db/CHANGELOG.md
+/db/LICENSE.md
