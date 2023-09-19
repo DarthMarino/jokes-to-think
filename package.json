@@ -23,11 +23,14 @@
     "@dicebear/collection": "^7.0.1",
     "@dicebear/core": "^7.0.1",
     "@fontsource/roboto": "^5.0.8",
+    "@motionone/solid": "^10.16.2",
     "@solidjs/router": "^0.8.3",
     "@suid/material": "^0.14.2",
     "@suid/vite-plugin": "^0.1.4",
+    "date-fns": "^2.30.0",
     "nookies": "^2.5.2",
     "pocketbase": "^0.18.0",
+    "solid-icons": "^1.0.12",
     "solid-js": "^1.7.11",
     "solid-toast": "^0.5.0"
   }

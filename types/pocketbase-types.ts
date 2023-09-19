@@ -33,7 +33,8 @@ export type AuthSystemFields<T = never> = {
 
 export type JokesRecord = {
 	joke: string
-	user_id: RecordIdString
+	title?: string
+	user: RecordIdString
 }
 
 export type UsersRecord = {
