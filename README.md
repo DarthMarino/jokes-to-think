@@ -12,7 +12,7 @@ My wish is to make it free forever.
 
 In order to run the project locally you must use the pocketbase executable, and move it to the db folder. You can find the executable in the releases section of the pocketbase repository or the [Pocketbase Website](https://pocketbase.io/docs/)
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+#### Learn more on the [Solid Website](https://solidjs.com), many questions can be answered on their [Solid Discord](https://discord.com/invite/solidjs)
 
 ## Available Scripts
 
